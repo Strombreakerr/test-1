@@ -1,0 +1,49 @@
+v3.4,v3.3.1,v3.3,v3.2,TestCaseStepName,URL
+408,455,1934,2099,RT7313-VendorTeamToLoadVendorAssessmentCreationForm,https://resolver.atlassian.net/browse/RT-7313
+1775,2036,3371,3632,RT7313-VendorTeamToSearchForVendor,https://resolver.atlassian.net/browse/RT-7313
+2092,2126,6541,11899,RT7313-VendorTeamToCreateVendorAssessment,https://resolver.atlassian.net/browse/RT-7313
+1794,1889,2391,1585,RT7218-Load Vendor Assessment Planning Activity,https://resolver.atlassian.net/browse/RT-7218
+772,785,1971,5566,RT7218-VendorTeamToClickOnScopeVendorQuestionnaire,https://resolver.atlassian.net/browse/RT-7218
+4638,4681,22433,20401,RT7218-VendorTeamToAddVendorQuestionnaireToAssessment,https://resolver.atlassian.net/browse/RT-7218
+1442,1575,1684,1711,RT7218-VendorTeamToReviewScope,https://resolver.atlassian.net/browse/RT-7218
+100909,98675,91979,88344,RT7218-VendorTeamToConfirmScope,https://resolver.atlassian.net/browse/RT-7218
+61358,61951,14995,12944,RT34945-VendorTeamToSubmitToVendor,https://resolver.atlassian.net/browse/RT-34945
+872,885,2434,2487,RT7021-VendorContactToOpenAssessmentFrom-VendorAssessmentRequiresReview,https://resolver.atlassian.net/browse/RT-7021
+6877,6800,15199,15242,RT7021-VendorContactToClickCompleteQuestionnaire,https://resolver.atlassian.net/browse/RT-7021
+2775,2473,12231,10303,RT7021-VendorContactToApplyRequiresResponseFilter,https://resolver.atlassian.net/browse/RT-7021
+6455,5942,7676,5873,RT7021-VendorContactToSubmitAssessmenttoReviewState,https://resolver.atlassian.net/browse/RT-7021
+944,1317,1934,1585,RT7022-Load Vendor Assessment Planning Activity,https://resolver.atlassian.net/browse/RT-7022
+20359,19078,5815,3678,RT7022-VendorTeamToReviewQuestionnaire,https://resolver.atlassian.net/browse/RT-7022
+7206,5965,6580,4012,RT7022-VendorTeamToSubmitForReview,https://resolver.atlassian.net/browse/RT-7022
+1210,1274,5040,3823,RT7022-VendorTeamToOpenAssessmentFrom-Review Vendor Assessment,https://resolver.atlassian.net/browse/RT-7022
+14640,14600,5111,3056,RT7022-VendorTeamToApply Misaligned Filter,https://resolver.atlassian.net/browse/RT-7022
+710,630,2179,1540,RT7044-VendorTeamToLoadIssueCreationForm,https://resolver.atlassian.net/browse/RT-7044
+2870,3086,4668,3294,RT7044-Create Issue as Open,https://resolver.atlassian.net/browse/RT-7044
+2000,2036,3458,1079,"RT7044-VendorTeamToCreateAndSaveIssueAsDraft""",https://resolver.atlassian.net/browse/RT-7044
+657,632,2824,2977,RT7044-VendorTeamToOpenOrLoadIssue,https://resolver.atlassian.net/browse/RT-7044
+90297,89249,64677,64829,RT7035-VendorTeamToRemediateVendorAssessment,https://resolver.atlassian.net/browse/RT-7035
+7253,7621,5188,6895,RT7100-VendorTeamToRejectVendorAssessment,https://resolver.atlassian.net/browse/RT-7100
+7512,8490,4896,7113,T7036-VendorTeamToApproveVendorAssessment,https://resolver.atlassian.net/browse/RT-7036
+1295,1304,3421,4233,RT7099-VendorTeamToOpenAssessmentFrom-Approved Vendor Engagements,https://resolver.atlassian.net/browse/RT-7099
+5543,5199,5750,3949,RT7099-VendorTeamToClickOnReassessVendor,https://resolver.atlassian.net/browse/RT-7099
+1228,1151,3398,2350,RT7103-VendorTeamToOpenAssessmentFrom-Rejected Vendor Engagements,https://resolver.atlassian.net/browse/RT-7103
+4508,4632,4414,6152,RT7103-VendorTeamToArchiveVendor,https://resolver.atlassian.net/browse/RT-7103
+9876,9985,11582,8886,RT7107-VendorTeamToLoadCorporateVendorMapReport,https://resolver.atlassian.net/browse/RT-7107
+14981,15829,17647,20757,RT7146-VendorTeamToLoadVendorAssessmentOverviewReport,https://resolver.atlassian.net/browse/RT-7146
+9324,9423,10156,16106,RT7394-VendorTeamToApplyRiskRatingFilter,https://resolver.atlassian.net/browse/RT-7394
+3799,3756,4680,8021,RT7394-VendorTeamToApplyVendorFilter,https://resolver.atlassian.net/browse/RT-7394
+54595,7046,11436,11119,RT7123-VendorTeamToLoadVendorSummaryReport,https://resolver.atlassian.net/browse/RT-7123
+28792,30190,12751,36096,RT7123-VendorTeamToApplyYesDesiredResponseCitationFilter,https://resolver.atlassian.net/browse/RT-7123
+27294,30076,25847,55428,RT7123-VendorTeamToApplyYesResponseCitationsFilter,https://resolver.atlassian.net/browse/RT-7123
+22549,21968,31126,53174,RT7123-VendorTeamToApplyMisalignedDesiredOutcomeFilter,https://resolver.atlassian.net/browse/RT-7123
+8525,8448,10377,12275,RT7205-VendorTeamToLoadVendorRequestOverviewReport,https://resolver.atlassian.net/browse/RT-7205
+17918,20271,18469,22665,RT7333-VendorTeamToLoadAnnualVendorEngagementOverviewReport,https://resolver.atlassian.net/browse/RT-7333
+5993,6298,7420,15288,RT7333-VendorTeamToApplyRiskRatingFilter,https://resolver.atlassian.net/browse/RT-7333
+2841,2927,6851,13571,RT7333-VendorTeamToApplyVendorFilter,https://resolver.atlassian.net/browse/RT-7333
+2729,2737,4430,11223,RT7333-VendorTeamToApplyDueDateFilter,https://resolver.atlassian.net/browse/RT-7333
+37727,36508,30801,32438,RT25040-VendorTeamToLoadVendorEngagementOverviewReport,https://resolver.atlassian.net/browse/RT-25040
+6285,6092,7677,14215,RT25040-VendorTeamToApplyRiskRatingFilter,https://resolver.atlassian.net/browse/RT-25040
+2871,2922,4150,8821,RT25040-VendorTeamToApplyVendorFilter,https://resolver.atlassian.net/browse/RT-25040
+12922,15079,16409,9019,RT7332-VendorTeamToLoadVendorIssueOverviewReport,https://resolver.atlassian.net/browse/RT-7332
+4863,5605,5476,22662,RT7332-VendorTeamToApplyHighPriorityIssueFilter,https://resolver.atlassian.net/browse/RT-7332
+2736,2753,4220,6900,RT7332-VendorTeamToApplyIssueStateFilter,https://resolver.atlassian.net/browse/RT-7332

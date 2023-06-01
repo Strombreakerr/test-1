@@ -1,0 +1,63 @@
+v3.5_Pre-Release,v3.4,v3.3.1,v3.3,TestCaseStepName,URL
+321,558,592,482,TC39904-08-Click on New Submission Button,https://resolver.atlassian.net/browse/RT-6395
+245,344,392,298,TC39904-10-Click on Done on Thank You Form,https://resolver.atlassian.net/browse/RT-6395
+3123,3363,3707,3355,TC39904-09-Click on Submit,https://resolver.atlassian.net/browse/RT-6395
+381,544,576,572,TC22204-09-ClickDoneButton,https://resolver.atlassian.net/browse/RT-3656
+863,1380,1734,1447,TC39893-12-Creation of 2nd Incident with Incident Type,https://resolver.atlassian.net/browse/RT-6388
+1816,2848,5032,5801,TC39913-11-Create Triage Incident,https://resolver.atlassian.net/browse/RT-6403
+1329,2108,2279,1951,TC39893-11-Create 1st Incident,https://resolver.atlassian.net/browse/RT-6388
+449,563,669,690,TC39913-10-Click on plus new Incident option in triage,https://resolver.atlassian.net/browse/RT-6403
+1116,1491,1731,1571,TC39913-33-Change Incident Type,https://resolver.atlassian.net/browse/RT-6403
+1365,1907,2056,1845,TC39913-17-Click on Create button for 1st Involvement,https://resolver.atlassian.net/browse/RT-6403
+1717,779,824,819,TC39913-20-Click on Create button for 2nd Involvement,https://resolver.atlassian.net/browse/RT-6403
+1716,943,993,876,TC39913-23-Click on Create button for 3rd Involvement,https://resolver.atlassian.net/browse/RT-6403
+1937,2468,1911,1739,TC39913-26-Click on Create button for 4th Involvement,https://resolver.atlassian.net/browse/RT-6403
+806,858,998,904,TC39913-29-Click on Create button for 5th Involvement,https://resolver.atlassian.net/browse/RT-6403
+151,382,573,711,TC39913-16-Search for location for 1st Involvement,https://resolver.atlassian.net/browse/RT-6403
+200,335,680,791,TC39913-14-Search for Person,https://resolver.atlassian.net/browse/RT-6403
+1419,1950,2110,1926,"TC22214-15-Click on ""Mark as Open"" Button",https://resolver.atlassian.net/browse/RT-3661
+1325,1752,1885,1884,TC39913-37-MOve to close state,https://resolver.atlassian.net/browse/RT-6403
+1373,1912,1958,1871,TC39907-19-Click on Return button,https://resolver.atlassian.net/browse/RT-6398
+1317,1466,1583,1547,TC39907-17-Search linked incident,https://resolver.atlassian.net/browse/RT-6398
+1656,1954,2153,2046,TC39893-15-Click on Incident,https://resolver.atlassian.net/browse/RT-6388
+790,1415,1740,1492,TC39893-Attachment,https://resolver.atlassian.net/browse/RT-6388
+875,1682,3840,1707,TC39893-Add items,https://resolver.atlassian.net/browse/RT-6388
+692,1187,1488,1200,TC39893-Organization,https://resolver.atlassian.net/browse/RT-6388
+2234,5427,4228,3706,TC39893-Add person,https://resolver.atlassian.net/browse/RT-6388
+2220,2959,2372,2128,TC39893-Add Location,https://resolver.atlassian.net/browse/RT-6388
+288,379,662,2706,TC39893-21-Search for Location,https://resolver.atlassian.net/browse/RT-6388
+138,321,494,458,TC39893-26-Search person,https://resolver.atlassian.net/browse/RT-6388
+142,208,233,275,TC39893-31-Search for Item,https://resolver.atlassian.net/browse/RT-6388
+249,313,385,312,TC39893-14-Search for 1st incident,https://resolver.atlassian.net/browse/RT-6388
+3301,4269,4088,4066,TC22222-25-Create Task,https://resolver.atlassian.net/browse/RT-3668
+2540,3767,6392,4893,TC32583-26-Create Task (One task creation),https://resolver.atlassian.net/browse/RT-4547
+660,1094,1203,1060,TC32605-26-Close incident•À?,https://resolver.atlassian.net/browse/RT-4555
+746,1373,1513,1332,TC40566-18-Close Incident,https://resolver.atlassian.net/browse/RT-25618
+391,862,1123,890,TC40567-18-Move to Triage,https://resolver.atlassian.net/browse/RT-25619
+446,486,518,446,TC39893-38-Search for Related incident,https://resolver.atlassian.net/browse/RT-6388
+39,78,66,89,TC40495-10-Incident List Initial Load,https://resolver.atlassian.net/browse/RT-6803
+2340,3833,3108,4640,TC40495-13-Apply Incident List Filters,https://resolver.atlassian.net/browse/RT-6803
+50,90,136,99,TC40495-11-Incident Summary Initial Load,https://resolver.atlassian.net/browse/RT-6803
+2761,3732,2530,3175,TC40495-16-Apply Incident Summary Filters,https://resolver.atlassian.net/browse/RT-6803
+46,58,85,91,TC39914-10-Navigate to Reports_01-Incident List Initial Load,https://resolver.atlassian.net/browse/RT-6404
+2345,2753,2848,2894,TC39914-13-Apply Incident List Filters,https://resolver.atlassian.net/browse/RT-6404
+52,79,96,105,TC39914-11-Navigate to Reports_01-Incident Summary Initial Load,https://resolver.atlassian.net/browse/RT-6404
+2852,3230,2754,3628,TC39914-16-Apply Incident Summary Filters,https://resolver.atlassian.net/browse/RT-6404
+45,58,65,61,TC39908-19-NavigatetoReports_01-Incident List Initial Load,https://resolver.atlassian.net/browse/RT-6399
+2222,2642,2782,3500,TC39908-22-Apply Incident List Filters,https://resolver.atlassian.net/browse/RT-6399
+70,83,97,90,TC39908-20-NavigatetoReports_01-Incident Summary Initial Load,https://resolver.atlassian.net/browse/RT-6399
+2185,3618,2591,2509,TC39908-25-Apply Incident Summary Filters,https://resolver.atlassian.net/browse/RT-6399
+44,80,65,104,TC40496-12-NavigatetoReports_01-Incident List Initial Load,https://resolver.atlassian.net/browse/RT-6804
+3295,3455,3048,2705,TC40496-15-Apply Incident List Filters,https://resolver.atlassian.net/browse/RT-6804
+51,103,96,95,TC40496-13-NavigatetoReports_01-Incident Summary Initial Load,https://resolver.atlassian.net/browse/RT-6804
+1169,1470,1581,1534,TC40496-18-Apply Incident Summary Filters,https://resolver.atlassian.net/browse/RT-6804
+844,1413,1624,1478,TC22139-27-Edit Incident Form,https://resolver.atlassian.net/browse/RT-3617
+151,177,211,174,TC22139-26-Incident Search In Active Incidents,https://resolver.atlassian.net/browse/RT-3617
+693,1126,1213,1140,TC22139-28-Close Incident,https://resolver.atlassian.net/browse/RT-3617
+2229,2256,2400,2528,TC22150-09- Edit Investigations,https://resolver.atlassian.net/browse/RT-3618
+2358,3564,2893,2589,TC39911-34-Create new log,https://resolver.atlassian.net/browse/RT-6402
+2930,3908,5726,3941,TC39911-35-Create new Interview,https://resolver.atlassian.net/browse/RT-6402
+2123,2880,3118,2984,TC39911-36-Create new evidence,https://resolver.atlassian.net/browse/RT-6402
+96,141,162,153,TC39911-32-Search an incident investigation,https://resolver.atlassian.net/browse/RT-6402
+1307,1989,2276,2150,TC22150-10-Click on complete investigation,https://resolver.atlassian.net/browse/RT-3618
+393,612,644,652,TC40671-25-Search for incident relationship,https://resolver.atlassian.net/browse/RT-6926

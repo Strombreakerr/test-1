@@ -1,0 +1,48 @@
+v3.4,v3.3.1,v3.3,v3.2,TestCaseStepName,URL
+492,521,580,570,TC41203-11-Click on Launch Vendor Assessment button,https://resolver.atlassian.net/browse/RT-6803
+553,523,772,599,TC41458-12-Search on the Vendor dimension,https://resolver.atlassian.net/browse/RT-7173
+3360,3031,3313,4605,TC40688-13-Create Vendor Assessment,https://resolver.atlassian.net/browse/RT-7313
+1236,1620,1572,1961,TC40724-15-Click on Assessment in Plan Vendor Assessment,https://resolver.atlassian.net/browse/RT-6940
+1921,1695,1756,1779,TC40752-16-Click on Scope Vendor Questionnaire button,https://resolver.atlassian.net/browse/RT-6961
+6821,22616,20850,24425,TC40752-17-Click on plus button of SIG Questionnaire,https://resolver.atlassian.net/browse/RT-6981
+100114,90759,91173,88267,TC41278-31-Scoping of Z Citations,https://resolver.atlassian.net/browse/RT-7218
+77843,67544,71062,74753,TC41278-31-Scoping of Z Citations,https://resolver.atlassian.net/browse/RT-7218
+97869,89542,87650,91765,TC41087-18-Scoping of 1312 Objects,https://resolver.atlassian.net/browse/RT-7100
+8495,8498,9327,10815,TC40724-17-Click on Submit to Vendor button,https://resolver.atlassian.net/browse/RT-6961
+891,815,996,854,TC40896-23-Click on an Assessment in the Vendor Assessment Requires Review view,https://resolver.atlassian.net/browse/RT-7021
+4536,4171,4400,2036,TC40896-24-Click on click here to complete Questionare,https://resolver.atlassian.net/browse/RT-7021
+2693,2482,2567,2366,TC41218-28-Click on requries response filter,https://resolver.atlassian.net/browse/RT-7185
+2363,2983,3681,5527,TC41033-27-Click on submit for review,https://resolver.atlassian.net/browse/RT-7068
+6478,5512,4928,1343,TC41160-15-Click on Review Questionnaire button,https://resolver.atlassian.net/browse/RT-7162
+6861,6583,5534,1745,TC40911-22-Click on Review Questionnaire button,https://resolver.atlassian.net/browse/RT-7022
+3717,3613,3719,2376,TC41160-13-Click on Submit for Review,https://resolver.atlassian.net/browse/RT-7162
+2067,2164,2501,2841,TC40911-21-Click on a Vendor Assessment under Review Vendor Assessment view,https://resolver.atlassian.net/browse/RT-7022
+1167,1195,1181,1103,TC40911-23-Set the Desired Outcome filter to Misaligned,https://resolver.atlassian.net/browse/RT-7022
+1965,1910,1726,2345,TC40981-22-Click the plus symbol to open Issue,https://resolver.atlassian.net/browse/RT-7044
+2624,2547,2733,1889,TC40981-23-Click on Open Issue Button,https://resolver.atlassian.net/browse/RT-7044
+2161,1873,2150,2720,RT7044-25-Create Draft state Issue,https://resolver.atlassian.net/browse/RT-7044
+1221,1111,1294,2195,RT7044-26-Edit Issue,https://resolver.atlassian.net/browse/RT-7044
+65506,67089,64035,67152,TC40953-22-Click on Remediation Required button,https://resolver.atlassian.net/browse/RT-7035
+4216,5387,4869,5058,TC41087-22-Click on Reject Engagement button,https://resolver.atlassian.net/browse/RT-7100
+3529,4195,4525,6492,TC40954-22-Click on the Approve Engagement button,https://resolver.atlassian.net/browse/RT-7036
+3872,3283,1715,1831,TC41085-24-Click on Vendor Assessment under Approved Vendor Engagement,https://resolver.atlassian.net/browse/RT-7099
+2654,2762,5742,6949,TC41085-25-Click on Reassess Vendor button,https://resolver.atlassian.net/browse/RT-7099
+3233,3366,2041,2257,"TC41092-24-Click on a Vendor Assessment under the Rejected Vendor Engagements view	",https://resolver.atlassian.net/browse/RT-7103
+2644,2840,4761,7790,TC41092-25-Click on Archive button,https://resolver.atlassian.net/browse/RT-7103
+1552,1626,1618,1600,TC41099-20-Load Corporate Vendor Map Report,https://resolver.atlassian.net/browse/RT-7107
+6591,3754,5589,27678,TC41143-32-Load Vendor Assessment Overview Report,https://resolver.atlassian.net/browse/RT-7146
+2303,2741,2694,1088,TC41654-32-Apply Filter for Criticality,https://resolver.atlassian.net/browse/RT-7394
+2728,1621,2724,1292,TC41654-34-Apply Vendor Filter,https://resolver.atlassian.net/browse/RT-7394
+2224,2216,2140,2363,TC41119-29-Click on report under the Vendor Summary Report view,https://resolver.atlassian.net/browse/RT-7123
+137,143,145,140,TC41119-30-Apply Desired Outcome Filter,https://resolver.atlassian.net/browse/RT-7123
+4263,3580,4373,6547,TC41259-15-Click on report under Vendor Request Overview view,https://resolver.atlassian.net/browse/RT-7205
+1614,1805,2146,1919,TC41266-30-Click on report under Annual Vendor Engagement Overview view,https://resolver.atlassian.net/browse/RT-7211
+2781,4219,7367,12351,TC41481-35-Apply Filter for Risk Rating,https://resolver.atlassian.net/browse/RT-7333
+3212,2524,6758,12602,TC41481-33-Apply Vendor Filter,https://resolver.atlassian.net/browse/RT-7333
+3425,3073,3482,11316,TC41481-31-Apply Filter for Due Date,https://resolver.atlassian.net/browse/RT-7333
+1529,1609,2186,4059,RT-25040-25-Click on a Vendor Assessment under Review Vendor Assessment view,https://resolver.atlassian.net/browse/RT-25040
+123,324,122,113,RT-25040-32-Apply Filter for Risk Rating,https://resolver.atlassian.net/browse/RT-25040
+1748,551,2073,979,RT-25040-34-Apply Vendor Filter,https://resolver.atlassian.net/browse/RT-25040
+11274,16350,16013,93036,TC41480-30-Vendor Issue Overview Report,https://resolver.atlassian.net/browse/RT-7332
+427,390,544,1440,RT7332-12-Apply Priority Issue Filter On Vendor Issue Overview Report,https://resolver.atlassian.net/browse/RT-7332
+431,522,568,1915,RT7332-11-Apply Priority-Issue and Issue Filters On Vendor Issue Overview Report,https://resolver.atlassian.net/browse/RT-7332

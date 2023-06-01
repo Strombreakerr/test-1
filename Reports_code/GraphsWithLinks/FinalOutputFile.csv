@@ -1,0 +1,44 @@
+4548,534,TC41203-11-Click on Launch Vendor Assessment button,https://resolver.atlassian.net/browse/RT-7162,200
+4549,831,TC41458-12-Search on the Vendor dimension,https://www.google.com,200
+4550,3229,TC40688-13-Create Vendor Assessment,https://www.google.com,200
+4551,1477,TC40724-15-Click on Assessment in Plan Vendor Assessment,https://www.google.com,200
+4552,1754,TC40752-16-Click on Scope Vendor Questionnaire button,https://www.google.com,200
+4553,23361,TC40752-17-Click on plus button of SIG Questionnaire,https://www.youtube.com,200
+4554,1085,TC41278-31-Scoping of Z Citations,https://www.google.com,Non HTTP response code: java.net.URISyntaxException
+4555,1085,TC41278-31-Scoping of Z Citations,https://www.google.com,Non HTTP response code: java.net.URISyntaxException
+4556,8270,TC40752-18-Scoping of 1312 Objects,https://www.google.com,200
+4557,9238,TC40724-17-Click on Submit to Vendor button,https://www.google.com,200
+4558,950,TC40896-23-Click on an Assessment in the Vendor Assessment Requires Review view,https://www.google.com,200
+66156,4548,TC40896-24-Click on click here to complete Questionare,https://resolver.atlassian.net/browse/RT-7162,200
+66157,1330,TC41160-15-Click on Review Questionnaire button,https://www.google.com,500
+66158,7139,TC40911-22-Click on Review Questionnaire button,https://www.google.com,200
+66159,1885,TC41160-13-Click on Submit for Review,https://www.google.com,Non HTTP response code: java.net.URISyntaxException
+66160,7419,TC40911-21-Click on a Vendor Assessment under Review Vendor Assessment view,https://www.google.com,200
+66161,7139,TC40911-22-Click on Review Questionnaire button,https://www.google.com,200
+66162,1212,TC40911-23-Set the Desired Outcome filter to Misaligned,https://www.google.com,200
+66163,1811,RT7044-25-Create Draft state Issue,https://www.google.com,200
+66164,1203,RT7044-26-Edit Issue,https://www.google.com,200
+66165,128195,TC40953-22-Click on Remediation Required button,https://www.google.com,200
+66166,66156,TC41087-22-Click on Reject Engagement button,https://www.google.com,200
+128195,66368,TC40954-22-Click on the Approve Engagement button,https://www.google.com,200
+128196,65105,TC41085-22-Click on the Approve Engagement button,https://www.google.com,200
+128197,71516,TC41085-25-Click on Reassess Vendor button,https://www.google.com,200
+128198,65318,TC41092-22-Click on Reject Engagement button,https://www.google.com,200
+128199,65298,TC41092-25-Click on Archive button,https://www.google.com,200
+128200,1708,TC41099-20-Load Corporate Vendor Map Report,https://www.google.com,200
+128201,5243,TC41143-32-Load Vendor Assessment Overview Report,https://www.google.com,200
+5243,3514,TC41654-32-Apply Filter for Criticality,https://www.google.com,200
+5244,2754,TC41654-34-Apply Vendor Filter,https://www.google.com,200
+5245,2225,TC41119-29-Click on report under the Vendor Summary Report view,https://www.google.com,200
+5246,148,TC41119-30-Apply Desired Outcome Filter,https://www.google.com,200
+5247,4383,TC41259-15-Click on  report under Vendor Request Overview view,https://www.google.com,200
+5248,2190,TC41266-30-Click on report under Annual Vendor Engagement Overview view,https://www.google.com,200
+5249,3352,TC41481-35-Apply Filter for Risk Rating,https://www.google.com,200
+5250,2943,TC41481-33-Apply Vendor Filter,https://www.google.com,200
+5251,2410,TC41481-31-Apply Filter for Due Date,https://www.google.com,200
+5252,2214,RT-25040-25-Click on a Vendor Assessment under Review Vendor Assessment view,https://www.google.com,200
+5253,117,RT-25040-32-Apply Filter for Risk Rating,https://www.google.com,200
+5254,2088,RT-25040-34-Apply Vendor Filter,https://www.google.com,200
+5255,15140,TC41480-30-Vendor Issue Overview Report,https://www.google.com,200
+5256,432,RT7332-12-Apply Priority Issue Filter On Vendor Issue Overview Report,https://www.google.com,200
+5257,517,RT7332-11-Apply Priority-Issue and Issue Filters On Vendor Issue Overview Report,https://www.google.com,200

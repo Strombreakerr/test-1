@@ -1,0 +1,62 @@
+1869,820,RT6395-AnonymousUserToLoadNewIncidentSubmissionForm ,https://resolver.atlassian.net/browse/RT-6395
+3884,2185,RT6395-AnonymousPortalSubmitThankYouForm ,https://resolver.atlassian.net/browse/RT-6395
+5166,4952,RT29300-EmployeeToClickOnSubmitButton ,https://resolver.atlassian.net/browse/RT-29300
+881,525,RT29300-EmployeeToClickOnDoneButton ,https://resolver.atlassian.net/browse/RT-29300
+3709,4894,RT32480-OwnerToCreateIncidentWithIncidentType ,https://resolver.atlassian.net/browse/RT-32480
+5861,5425,RT32472-ScreenerToCreateIncident ,https://resolver.atlassian.net/browse/RT-32472
+4112,2892,RT6388-OwnerToCreateIncident ,https://resolver.atlassian.net/browse/RT-6388
+3272,1983,RT32472-ClickOnPlusCreateIncidentButton,https://resolver.atlassian.net/browse/RT-32472
+6272,4998,RT6403-ChangingPrimaryIncidentType,https://resolver.atlassian.net/browse/RT-6403
+4675,4752,RT32473-ScreenerToCreateRiverdale PlazaForIncident ,https://resolver.atlassian.net/browse/RT-32473
+1813,1876,RT32473-ScreenerToCreateRiverdale TowersForIncident,https://resolver.atlassian.net/browse/RT-32473
+4544,4468,RT32473-ScreenerToCreateRiverdale Warehouse 44DForIncident,https://resolver.atlassian.net/browse/RT-32473
+1951,1822,RT32473-ScreenerToCreateHeadquarters - Riverdale IndustriesForIncident,https://resolver.atlassian.net/browse/RT-32473
+2299,2322,RT32473-ScreenerToCreate17 Lyons Circle Battle Creek CAForIncident,https://resolver.atlassian.net/browse/RT-32473
+3117,5521,RT32474-ScreenerToSearchForLocation ,https://resolver.atlassian.net/browse/RT-32474
+7740,8085,RT29257-ScreenerToSearchForPerson ,https://resolver.atlassian.net/browse/RT-29257
+2025,2373,RT3661-ScreenerToCreateIncidentAsMarkAsOpen ,https://resolver.atlassian.net/browse/RT-3661
+2088,2269,RT32471-ScreenerToCloseIncident,https://resolver.atlassian.net/browse/RT-32471
+1929,1971,RT6398-ScreenerToMoveIncidentToDraft ,https://resolver.atlassian.net/browse/RT-6398
+3183,3716,RT32484-ScreenerToSearchAndLinkIncident,https://resolver.atlassian.net/browse/RT-32484
+3395,2450,RT32481-OwnerToLoadIncidentEditForm ,https://resolver.atlassian.net/browse/RT-32481
+4264,11497,RT32481-OwnerToCreateLocation ,https://resolver.atlassian.net/browse/RT-32481
+4072,4866,RT32481-OwnerToCreatePerson ,https://resolver.atlassian.net/browse/RT-32481
+4357,2629,RT32481-OwnerToCreateItem ,https://resolver.atlassian.net/browse/RT-32481
+4599,6801,RT32481-OwnerToCreateAttachment ,https://resolver.atlassian.net/browse/RT-32481
+4137,3820,RT32481-OwnerToCreateOrganizationInvolvement ,https://resolver.atlassian.net/browse/RT-32481
+5742,7351,RT32485-OwnerToSearchForRiverdale Plaza Location ,https://resolver.atlassian.net/browse/RT-32485
+4912,7535,RT32487-OwnerToSearchTristan Alves Person,https://resolver.atlassian.net/browse/RT-32487
+15764,16960,RT32483-OwnerToSearchForLostItem ,https://resolver.atlassian.net/browse/RT-32483
+6283,4323,RT3668-OwnerToCreateExpressTask,https://resolver.atlassian.net/browse/RT-3668
+7995,6689,RT4547-OwnerToCreateTask1 ,https://resolver.atlassian.net/browse/RT-4547
+2871,1242,RT4547-OwnerToCreateTask2 ,https://resolver.atlassian.net/browse/RT-4547
+2551,3824,RT4547-OwnerToCreateTask3 ,https://resolver.atlassian.net/browse/RT-4547
+2690,1196,RT4547-OwnerToCreateTask4 ,https://resolver.atlassian.net/browse/RT-4547
+2778,3449,RT4547-OwnerToCreateTask5 ,https://resolver.atlassian.net/browse/RT-4547
+6538,6275,RT4555-IncidentMovedToUderInvestigation,https://resolver.atlassian.net/browse/RT-4555
+5886,11714,RT25618-OwnerToCloseIncident ,https://resolver.atlassian.net/browse/RT-25618
+5136,12328,RT25619-OwnerToMoveIncidentToTriage ,https://resolver.atlassian.net/browse/RT-25619
+2758,2087,RT28877-SupervisorToLoadIncidentEditForm ,https://resolver.atlassian.net/browse/RT-28877
+6176,9945,RT28877-SupervisorToSearchAndLinkIncident ,https://resolver.atlassian.net/browse/RT-28877
+2633,1446,RT6402-InvestigatorToLoadIncidentEditForm ,https://resolver.atlassian.net/browse/RT-6402
+3769,3618,RT32477-CreateLog ,https://resolver.atlassian.net/browse/RT-32477
+7072,8258,RT32478-InvestigatorToCreateInterview ,https://resolver.atlassian.net/browse/RT-32478
+3842,3659,RT6402-InvestigatorToCreateEvidence ,https://resolver.atlassian.net/browse/RT-6402
+6589,6226,RT3618-ClickOnCompleteInvestigation,https://resolver.atlassian.net/browse/RT-3618
+6165,9925,RT6926-InvestigatorToSearchForRelatedIncident ,https://resolver.atlassian.net/browse/RT-6926
+9186,8979,RT6803-GlobalPermissionUserToLoadIncidentListReport ,https://resolver.atlassian.net/browse/RT-6803
+4711,3517,RT6803-GlobalPermissionUserToLoadIncidentListReportLoadWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-6803
+9074,11286,RT32537-GlobalPermissionUserToLoadIncidentSummaryReport ,https://resolver.atlassian.net/browse/RT-32537
+4134,3342,RT32537-GlobalPermissionUserToLoadIncidentSummaryReportWithMultipleFilters,https://resolver.atlassian.net/browse/RT-32537
+10124,13022,RT6404-OwnerToLoadIncidentListReport ,https://resolver.atlassian.net/browse/RT-6404
+7695,6943,RT6404-OwnerToIncidentListReportLoadWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-6404
+18936,18626,RT32538-OwnerToLoadIncidentSummaryReport ,https://resolver.atlassian.net/browse/RT-32538
+6228,6643,RT32538-OwnerToLoadIncidentSummaryReportWithMultipleFilters,https://resolver.atlassian.net/browse/RT-32538
+9916,12847,RT6399-BUUserToLoadIncidentListReport ,https://resolver.atlassian.net/browse/RT-6399
+6402,2836,RT6399-BUUserToIncidentListReportLoadWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-6399
+9271,9605,RT32536-BUUserToLoadIncidentSummaryReport ,https://resolver.atlassian.net/browse/RT-32536
+8018,3344,RT32536-BUUserToLoadIncidentSummaryReportWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-32536
+9207,8790,RT6804-ITUserToLoadIncidentListReport ,https://resolver.atlassian.net/browse/RT-6804
+5534,2844,RT6804-ITUserToLoadIncidentListReportWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-6804
+11663,9644,RT32539-ITUserToLoadIncidentSummaryReport ,https://resolver.atlassian.net/browse/RT-32539
+8625,2595,RT32539-ITUserToLoadIncidentSummaryReportWithMultipleFilters ,https://resolver.atlassian.net/browse/RT-32539

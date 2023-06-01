@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+        <head>
+            <meta charset="UTF-8" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+            <title>Resolver Performance Group</title>
+            <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+            <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        </head>
+<img src=""  id="rainbow" width="400" />
+<script>
+    console.log('about to fetch a rainbow');
+    fetch('rainbow.jpg')
+    .then(response => {
+        console.log(response);
+        return response.blob();
+    })
+    .then(blob => {
+        console.log(blob);
+        document.getElementById('rainbow').src = URL.createObjectURL(blob);
+    })
+</script>
+<br></br>
+<br></br>
+<br></br>
+<body>
+    <div class="text-lg-center">
+<a href=http://127.0.0.1:5500/LatestBuilding.html>
+<button name="Incident Management Results" type="submit" style="height: 250px; width: 1000px;">Kinross</button>
+</a>
+</div>
+<br></br>
+<br></br>
+<br></br>
+<body>
+    <div class="text-lg-center">
+<a href=http://127.0.0.1:5500/LatestBuilding.html>
+<button name="Incident Management Results" type="submit" style="height: 250px; width: 1000px;">DFS</button>
+</a>
+</div>
+</html>
